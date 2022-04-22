@@ -1,5 +1,5 @@
 # Project title
-    Canteen App
+ Canteen App
 
 
 ## Description
